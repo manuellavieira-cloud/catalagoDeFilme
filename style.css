@@ -1,0 +1,57 @@
+body {
+    margin: 0%;
+    background-color: #f2f2f2;
+    color: #333333;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+header {
+    background-color: rgb(226, 36, 36);
+    color: rgb(27, 27, 145);
+    text-align: center;
+    padding: 15px;
+
+}
+
+header h1 {
+    margin: 0%;
+}
+
+header h2 {
+    margin-top: 5px;
+}
+
+img {
+    align-items: center;
+    margin: auto;
+    display: block;
+    padding: 30px;
+    background-color: white;
+    padding: 30px;
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+}
+
+.sinopse h3 {
+    padding: 5px;
+    background-color: white;
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+    width: 370px;
+    margin-left: 30%;
+
+}
+
+.sinopse {
+    text-align: center;
+
+}
+
+.producao {
+    
+}
+
+#trailer{
+    text-align: center;
+}
